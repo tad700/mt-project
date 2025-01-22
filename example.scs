@@ -1,0 +1,11 @@
+﻿using System;
+
+class Program
+{
+  int Main() {
+  int a=10;
+  string b = "asdad";
+    System.Console.WriteLine(a+b);
+	return 0;
+  }
+}
